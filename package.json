@@ -1,0 +1,20 @@
+{
+  "name": "ssvcjs",
+  "version": "1.0.0",
+  "description": "CMU SEI's Stakeholder-Specific Vulnerability Categorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ssvc",
+    "cvss",
+    "vulnerability",
+    "scoring"
+  ],
+  "author": "Charles `sparticvs` Timko",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
